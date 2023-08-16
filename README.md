@@ -69,6 +69,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Australia Plans Regulatory Framework for AI](https://winbuzzer.com/2023/06/05/australia-plans-regulatory-framework-for-ai-xcxwbn/), Sky News Australia, June 5, 2023
 - [Ensuring Ethical and Responsible Use of Generative AI](https://www.xenonstack.com/blog/responsible-use-generative-ai), XenonStack, August 3, 2023
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Euronews Next, May 26, 2023
+- [The Urgent Risks of Runaway AI – and What to Do about Them | Gary Marcus | TED](https://www.youtube.com/watch?v=JL5OFXeXenA&t=2s), TED Talks, May 13, 2023
+- [The A.I. Dilemma](https://www.youtube.com/watch?v=xoVJKj8lcNQ), TED Talks, April 6, 2023
+- [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg), TED Talks, October 20, 2023
 
 
 
