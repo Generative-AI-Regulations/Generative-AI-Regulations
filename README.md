@@ -64,6 +64,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc), Fireship, May 18, 2023
 - [Singapore is not looking to regulate A.I. just yet, says the city-state’s authority](https://www.cnbc.com/2023/06/19/singapore-is-not-looking-to-regulate-ai-just-yet-says-the-city-state.html)CNBC, June 19, 2023
 - [Unleashing potential of generative AI across the legal profession](https://law.asia/potential-generative-ai-for-legal-profession/), Asia Business Law Journal, July 5, 2023
+- [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 4](https://www.youtube.com/watch?v=YKUltib9w0g), NYU School pf Law, April 24, 2023
+- [ChatGPT and Generative AI Are Hits! Can Copyright Law Stop Them?](https://www.youtube.com/watch?v=bRqwTP2eKJY), Bloombery Law, July 14, 2023
+- 
 
 
 
