@@ -33,7 +33,8 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [The American AI Century: A Blueprint for Action](https://www.cnas.org/publications/reports/the-american-ai-century-a-blueprint-for-action)
 - [Response to OSTP “National Priorities for Artificial Intelligence Request for Information”](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
 - [Generative AI for medical 3D printing: a comparison of ChatGPT outputs to reference standard education](https://www.proquest.com/docview/2843974461?accountid=17095&parentSessionId=M9QPbqSfPNO1jmrV3kZdUWUa%2FKAqLn9kPi3cNFgqdF4%3D&pq-origsite=primo)
-- [Why open-source generative AI models are an ethical way forward for science](https://www-nature-com.ezproxy.lib.uts.edu.au/articles/d41586-023-01295-4)
+- [Why open-source generative AI models are an ethical way forward for science](https://www.nature.com/articles/d41586-023-01295-4)
+
 ## News and Media Discussions
 - [Artificial intelligence: top academics warn Australia has no AI industry to regulate](https://www.afr.com/technology/labor-ignoring-the-elephant-in-the-room-on-ai-experts-20230804-p5du1p), The Australian Financial Review, Aug 7, 2023
 - [Europeans Take a Major Step Toward Regulating A.I.](https://www.nytimes.com/2023/06/14/technology/europe-ai-regulation.html), The New York Times, June 14, 2023
