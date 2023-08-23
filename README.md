@@ -55,6 +55,20 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [China races ahead of U.S. on AI regulation](https://www.axios.com/2023/05/08/china-ai-regulation-race), AXIOS, Ryan Heath, May 08, 2023
 - [Biden administration is trying to figure out how to audit AI](https://www.washingtonpost.com/technology/2023/04/11/biden-commerce-department-ai-rules/), The Washington Post, Cat Zakrzewski, April 11, 2023
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work), Harvard Business Review, Thomas H. Davenport and Nitin Mittal, Nov 14, 2022
+- [Generative AI magnifies urgency of regulating big tech platforms](https://www.afr.com/technology/generative-ai-magnifies-urgency-of-regulating-big-tech-platforms-20230522-p5dad1), The Australian Financial Review, 25 May 2023
+- [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Information Age, Aaron Hurst, 11 July 2023
+- [Artificial intelligence technologies could be classified by risk, as government consults on AI regulation](https://www.abc.net.au/news/2023-06-01/ai-government-regulation-risk-classification-plan/102417294), ABC, Jake Evans, 01 June 2023
+- [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, 17 Aug 2023
+- [Who Is Going to Regulate AI?](https://hbr.org/2023/05/who-is-going-to-regulate-ai), Harvard Business Review, Blair Levin and Larry Downes, 19 May 2023
+- [UK rules out new AI regulator](https://www.bbc.com/news/technology-65102210), BBC News Services, Shiona McCallum, 29 Mar 2023
+- [Generative AI Has an Intellectual Property Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem), Harvard Business Review, Gil Appel, Juliana Neelbauer, and David A. Schweidel, 07 April 2023
+- [‘We have to move fast’: US looks to establish rules for artificial intelligence](https://www.theguardian.com/technology/2023/apr/11/us-commerce-department-artificial-intelligence-rules), The Guardian, Johana Bhuiyan, 12 April 2023
+- [OpenAI CEO calls for laws to mitigate ‘risks of increasingly powerful’ AI](https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations), The Guardian, Johana Bhuiyan, 17 May 2023
+- [Australia is looking to regulate AI – what might they be used for and what could go wrong?](https://www.theguardian.com/technology/2023/jun/03/australia-is-looking-to-regulate-ai-what-might-they-be-used-for-and-what-could-go-wrong), The Guardian, Josh Taylor, 03 June 2023
+- [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, 19 July 2023
+- [China takes major step in regulating generative AI services like ChatGPT](https://edition.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html), CNN, Laura He, 14 July 2023
+
+
 ## Presentations and Talks
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Information age, July 11, 2023
