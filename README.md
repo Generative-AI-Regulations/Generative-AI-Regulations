@@ -51,13 +51,10 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [AI regulation: What businesses need to know in 2023](https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know), TechTarget Editorial, Michael Bennett, May 17, 2023
 - [China says generative AI rules to apply only to products for the public](https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/), REUTERS, Josh Ye, Jul 15, 2023
 - [China races ahead of U.S. on AI regulation](axios.com/2023/05/08/china-ai-regulation-race), Ryan Heath, May 08, 2023
-- [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/), Alex Engler, April 25, 2023
-- [As Generative AI Drives Urgency for AI Regulations, Most Companies Unprepared for New Requirements: Verta Insights Study](https://www.businesswire.com/news/home/20230426005311/en/As-Generative-AI-Drives-Urgency-for-AI-Regulations-Most-Companies-Unprepared-for-New-Requirements-Verta-Insights-Study), Andy Reese, April 26, 2023
-- [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), Tony Fyler, May 26, 2023
-- [EU lawmakers pass landmark artificial intelligence regulation](https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html), Ryan Browne, June 14, 2023
-- [Two AI-related bills introduced in US Congress amid generative AI rush](https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html),  Anirban Ghoshal, June 09, 2023
-- [Google and the European Commission will collaborate on AI ground rules](https://www.engadget.com/google-and-the-european-commission-will-collaborate-on-ai-ground-rules-192035744.html),Will Shanklin, May 24, 2023
-- 
+- [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, Tony Fyler, May 26, 2023
+- [EU lawmakers pass landmark artificial intelligence regulation](https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html), CNBC, Ryan Browne, June 14, 2023
+- [Two AI-related bills introduced in US Congress amid generative AI rush](https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html), Computerworld, Anirban Ghoshal, June 09, 2023
+- [Google and the European Commission will collaborate on AI ground rules](https://www.engadget.com/google-and-the-european-commission-will-collaborate-on-ai-ground-rules-192035744.html), ENGADGET, Will Shanklin, May 24, 2023 
 ## Presentations and Talks
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Information age, July 11, 2023
