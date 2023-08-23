@@ -53,7 +53,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [At G-7 summit, leaders call for international standards on AI](https://www.washingtonpost.com/world/2023/05/20/g7-summit-artificial-intelligence-ai/), The Washington Post, Michelle Ye Hee Lee, Matt Viser and Tyler Pager, May 20, 2023
 - [AI regulation: What businesses need to know in 2023](https://www.techtarget.com/searchenterpriseai/feature/AI-regulation-What-businesses-need-to-know), TechTarget Editorial, Michael Bennett, May 17, 2023
 - [China races ahead of U.S. on AI regulation](axios.com/2023/05/08/china-ai-regulation-race), Ryan Heath, May 08, 2023
-- [Biden administration is trying to figure out how to audit AI](https://www.washingtonpost.com/technology/2023/04/11/biden-commerce-department-ai-rules/),The Washington Post, Cat Zakrzewski, April 11, 2023
+- [Biden administration is trying to figure out how to audit AI](https://www.washingtonpost.com/technology/2023/04/11/biden-commerce-department-ai-rules/), The Washington Post, Cat Zakrzewski, April 11, 2023
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work), Harvard Business Review, Thomas H. Davenport and Nitin Mittal, Nov 14, 2022
 ## Presentations and Talks
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
