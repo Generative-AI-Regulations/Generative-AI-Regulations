@@ -39,11 +39,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Artificial intelligence: top academics warn Australia has no AI industry to regulate](https://www.afr.com/technology/labor-ignoring-the-elephant-in-the-room-on-ai-experts-20230804-p5du1p), The Australian Financial Review, Aug 7, 2023
 - [Europeans Take a Major Step Toward Regulating A.I.](https://www.nytimes.com/2023/06/14/technology/europe-ai-regulation.html), The New York Times, June 14, 2023
 - [Government Agencies on generative AI](https://www.miragenews.com/government-agencies-on-generative-ai-1041623/), Mirage, July 6, 2023
-- [Around the halls: What should the regulation of generative AI look like?](https://www.brookings.edu/articles/around-the-halls-what-should-the-regulation-of-generative-ai-look-like/), Nicol Turner Lee, Niam Yaraghi, Mark MacCarthy, Tom Wheeler, Jun 02, 2023
 - [CONFLICTING VISIONS FOR AI REGULATION](https://www.nature.com/articles/d41586-023-02491-y), Matthew Hutson, Aug 10, 2023
-- [Global push to regulate artificial intelligence, plus other AI stories to read this month](https://www.weforum.org/agenda/2023/05/top-story-plus-other-ai-stories-to-read-this-month/), Cathy Li, May 02, 2023
-- [Towards Guidelines for Guidelines on the Use of Generative AI in Newsrooms](https://generative-ai-newsroom.com/towards-guidelines-for-guidelines-on-the-use-of-generative-ai-in-newsrooms-55b0c2c1d960), Hannes Cools, Jul 10, 2023
-- [Generative AI and Standards: an overview (Guest blog by BSI)](https://www.techuk.org/resource/aiweek2023-bsi-wed.html), Tim McGarr, April 19, 2023
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work), Thomas H. Davenport and Nitin Mittal, Nov 14, 2022
 - [International Community Must Urgently Confront New Reality of Generative, Artificial Intelligence, Speakers Stress as Security Council Debates Risks, Rewards](https://press.un.org/en/2023/sc15359.doc.htm), Jul 18, 2023
 - [Digital Platform Regulators Forum puts generative AI on agenda](https://www.esafety.gov.au/newsroom/media-releases/digital-platform-regulators-forum-puts-generative-ai-on-agenda), Jul 04, 2023
@@ -69,6 +65,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [EU lawmakers pass landmark artificial intelligence regulation](https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html), Ryan Browne, June 14, 2023
 - [Two AI-related bills introduced in US Congress amid generative AI rush](https://www.computerworld.com/article/3699348/two-ai-related-bills-introduced-in-us-congress-amid-generative-ai-rush.html),  Anirban Ghoshal, June 09, 2023
 - [Google and the European Commission will collaborate on AI ground rules](https://www.engadget.com/google-and-the-european-commission-will-collaborate-on-ai-ground-rules-192035744.html),Will Shanklin, May 24, 2023
+- 
 ## Presentations and Talks
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Information age, July 11, 2023
