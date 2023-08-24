@@ -16,6 +16,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [China’s AI Regulations and How They Get Made by Carnegie](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117)
 - [Generative AI Raises Competition Concerns by Federal Trade Commission](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
 - [How generative AI impacts democratic engagement by Brookings](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
+- [Lessons From the World’s Two Experiments in AI Governance by Carnegie](https://carnegieendowment.org/2023/02/14/lessons-from-world-s-two-experiments-in-ai-governance-pub-89035)
+- [What a Chinese Regulation Proposal Reveals About AI and Democratic Values by Carnegie](https://carnegieendowment.org/2023/05/16/what-chinese-regulation-proposal-reveals-about-ai-and-democratic-values-pub-89766)
+- 
 
 ## News and Media Discussions
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
