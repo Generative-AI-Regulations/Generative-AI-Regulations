@@ -5,13 +5,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [AI Standards Committee at the IEEE Computer Society](https://sagroups.ieee.org/ai-sc/)
 - [Technical AI Standards by the UTS National Institute of Standards and Technology (NIST)](https://www.nist.gov/artificial-intelligence/technical-ai-standards)
 - [Regulation on Artificial Intelligence by the EU](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
-- [Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
-- [Around the halls: What should the regulation of generative AI look like?](https://www.brookings.edu/articles/around-the-halls-what-should-the-regulation-of-generative-ai-look-like/)
-- [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/)
-- [The three challenges of AI regulation](https://www.brookings.edu/articles/the-three-challenges-of-ai-regulation/)
-- [How generative AI impacts democratic engagement](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
-- [Law, Policy, & AI Update: Does Section 230 Cover Generative AI?](https://hai.stanford.edu/news/law-policy-ai-update-does-section-230-cover-generative-ai)
-- [Analyzing the European Union AI Act: What Works, What Needs Improvement](https://hai.stanford.edu/news/analyzing-european-union-ai-act-what-works-what-needs-improvement)
+- [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment by Brookings](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/)
+- [The three challenges of AI regulation by Brookings](https://www.brookings.edu/articles/the-three-challenges-of-ai-regulation/)
+- [Law, Policy, & AI Update: Does Section 230 Cover Generative AI? by Stanford University](https://hai.stanford.edu/news/law-policy-ai-update-does-section-230-cover-generative-ai)
 - [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
 - [Generative AI: What Should Governments in Latin America Do?](https://cyber.harvard.edu/publication/2023/generative-ai-what-should-governments-latin-america-do)
 - [How is Generative AI changing the landscape of AI harms?](https://cyber.harvard.edu/events/how-generative-ai-changing-landscape-ai-harms)
@@ -26,7 +22,8 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [The American AI Century: A Blueprint for Action](https://www.cnas.org/publications/reports/the-american-ai-century-a-blueprint-for-action)
 - [Response to OSTP “National Priorities for Artificial Intelligence Request for Information”](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
 - [China’s AI Regulations and How They Get Made by Carnegie](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117)
-- 
+- [Generative AI Raises Competition Concerns by Federal Trade Commission](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
+- [How generative AI impacts democratic engagement by Brookings](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
 
 ## News and Media Discussions
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
