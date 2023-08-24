@@ -25,6 +25,8 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [WIPO Impact of Artificial Intelligence on IP Policy Response from Brunel University London, Law School & Centre for Artificial Intelligence](https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/call_for_comments/pdf/org_brunel.pdf)
 - [The American AI Century: A Blueprint for Action](https://www.cnas.org/publications/reports/the-american-ai-century-a-blueprint-for-action)
 - [Response to OSTP “National Priorities for Artificial Intelligence Request for Information”](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
+- [China’s AI Regulations and How They Get Made by Carnegie](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117)
+- 
 
 ## News and Media Discussions
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
