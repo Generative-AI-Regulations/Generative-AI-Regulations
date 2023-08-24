@@ -12,7 +12,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Exploring the Impacts of Generative AI on the Future of Teaching and Learning by Berkman Klein Center](https://cyber.harvard.edu/story/2023-06/impacts-generative-ai-teaching-learning)
 - [WIPO Impact of Artificial Intelligence on IP Policy Response from Brunel University London, Law School & Centre for Artificial Intelligence by Brunel University London](https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/call_for_comments/pdf/org_brunel.pdf)
 - [The American AI Century: A Blueprint for Action by CNAS](https://www.cnas.org/publications/reports/the-american-ai-century-a-blueprint-for-action)
-- [Response to OSTP “National Priorities for Artificial Intelligence Request for Information”](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
+- [Response to OSTP “National Priorities for Artificial Intelligence Request for Information” by CNAS](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
 - [China’s AI Regulations and How They Get Made by Carnegie](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117)
 - [Generative AI Raises Competition Concerns by Federal Trade Commission](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
 - [How generative AI impacts democratic engagement by Brookings](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
