@@ -3,18 +3,13 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 
 ## Government Agencies and Research Institutions
 - [AI Standards Committee at the IEEE Computer Society](https://sagroups.ieee.org/ai-sc/)
-- [Responsible Use Guide by Meta AI (July 2023)](https://ai.meta.com/llama/responsible-use-guide/#:~:text=The%20Responsible%20Use%20Guide%20is,development%20from%20inception%20to%20deployment.)
-- [ISO Standards by ISO/IEC JTC 1/SC 42](https://www.iso.org/committee/6794475/x/catalogue/p/0/u/1/w/0/d/0)
 - [Technical AI Standards by the UTS National Institute of Standards and Technology (NIST)](https://www.nist.gov/artificial-intelligence/technical-ai-standards)
 - [Regulation on Artificial Intelligence by the EU](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
-- [AI Standards Hub led by the Alan Turing Institute](https://aistandardshub.org/the-ai-standards-hub/)
 - [Generative AI Raises Competition Concerns](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/06/generative-ai-raises-competition-concerns)
 - [Around the halls: What should the regulation of generative AI look like?](https://www.brookings.edu/articles/around-the-halls-what-should-the-regulation-of-generative-ai-look-like/)
 - [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/)
 - [The three challenges of AI regulation](https://www.brookings.edu/articles/the-three-challenges-of-ai-regulation/)
 - [How generative AI impacts democratic engagement](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
-- [Congress Must Exercise Caution in AI Regulation](https://www.eff.org/deeplinks/2023/05/congress-must-exercise-caution-ai-regulation)
-- [Generative AI Policy Must Be Precise, Careful, and Practical: How to Cut Through the Hype and Spot Potential Risks in New Legislation](https://www.eff.org/deeplinks/2023/07/generative-ai-policy-must-be-precise-careful-and-practical-how-cut-through-hype)
 - [Law, Policy, & AI Update: Does Section 230 Cover Generative AI?](https://hai.stanford.edu/news/law-policy-ai-update-does-section-230-cover-generative-ai)
 - [Analyzing the European Union AI Act: What Works, What Needs Improvement](https://hai.stanford.edu/news/analyzing-european-union-ai-act-what-works-what-needs-improvement)
 - [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
@@ -27,13 +22,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Balancing Transparency and Security in Open Research on Generative AI](https://cyber.harvard.edu/events/balancing-transparency-and-security-open-research-generative-ai)
 - [Responsible Generative AI: Accountable Technical Oversight](https://cyber.harvard.edu/projects/ai-initiative/responsible-generative-ai-accountable-technical-oversight)
 - [Co-Designing Generative Futures: A Global Conversation About AI](https://cyber.harvard.edu/story/2023-05/co-designing-generative-futures)
-- [Artificial intelligence and copyright](https://www.wipo.int/wipo_magazine/en/2017/05/article_0003.html)
-- [Artificial Intelligence and Intellectual Property Policy](https://www.wipo.int/about-ip/en/artificial_intelligence/policy.html)
 - [WIPO Impact of Artificial Intelligence on IP Policy Response from Brunel University London, Law School & Centre for Artificial Intelligence](https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/call_for_comments/pdf/org_brunel.pdf)
 - [The American AI Century: A Blueprint for Action](https://www.cnas.org/publications/reports/the-american-ai-century-a-blueprint-for-action)
 - [Response to OSTP “National Priorities for Artificial Intelligence Request for Information”](https://www.cnas.org/publications/commentary/ostp-national-priorities-for-artificial-intelligence)
-- [Generative AI for medical 3D printing: a comparison of ChatGPT outputs to reference standard education](https://www.proquest.com/docview/2843974461?accountid=17095&parentSessionId=M9QPbqSfPNO1jmrV3kZdUWUa%2FKAqLn9kPi3cNFgqdF4%3D&pq-origsite=primo)
-- [Why open-source generative AI models are an ethical way forward for science](https://www.nature.com/articles/d41586-023-01295-4)
 
 ## News and Media Discussions
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
