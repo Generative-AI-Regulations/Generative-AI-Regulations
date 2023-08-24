@@ -18,6 +18,9 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [How generative AI impacts democratic engagement by Brookings](https://www.brookings.edu/articles/how-generative-ai-impacts-democratic-engagement/)
 - [Lessons From the World’s Two Experiments in AI Governance by Carnegie](https://carnegieendowment.org/2023/02/14/lessons-from-world-s-two-experiments-in-ai-governance-pub-89035)
 - [What a Chinese Regulation Proposal Reveals About AI and Democratic Values by Carnegie](https://carnegieendowment.org/2023/05/16/what-chinese-regulation-proposal-reveals-about-ai-and-democratic-values-pub-89766)
+- [Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency by CSIS](https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency)
+- [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/)
+- [White House Guidance for Regulation of Artificial Intelligence Applications by NAIIO](https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/11/M-21-06.pdf)
 - 
 
 ## News and Media Discussions
