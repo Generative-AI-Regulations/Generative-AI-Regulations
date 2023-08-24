@@ -55,7 +55,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information age, July 11, 2023
 - [AI Regulation: Balancing Risk and Opportunity](https://www.youtube.com/watch?v=-CXkHs3cxa4&t=1s&ab_channel=OECD), OECD, January 23, 2023
 - [Generative AI: The big questions](https://www.cliffordchance.com/insights/thought_leadership/ai-and-tech/generative-ai-the-big-questions.html), Clifford Chance, June 5, 2023
-- [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/),Reuters, July 19, 2023
+- [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, July 19, 2023
 - [Generative AI Standards and Regulations](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education), Sal Khan, TED Talks, April, 2023
 - [The inside story of ChatGPT's astonishing potential](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential), Greg Brockman, TED Talks, April, 2023
 - [Regulating AI: Why It’s Difficult to Do and Important to Get Right](https://www.governing.com/now/regulating-ai-why-its-difficult-to-do-and-important-to-get-right), Governing, April 9, 2023
@@ -65,7 +65,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Australia’s Artificial Intelligence Ethics Framework](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework), Science and Resources, November 7, 2019
 - [China finalizes rules on generative AI amidst a rush of product launches](https://techhq.com/2023/07/china-finalizes-rules-on-generative-ai-amidst-a-rush-of-product-launches/), TechHQ, July 17, 2023
 - [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, May 26, 2023
-- [OpenAI CEO Sam Altman Asks Congress to Regulate AI](https://time.com/6280372/sam-altman-chatgpt-regulate-ai/),  Julia Zorthian, Time, May 16, 2023
+- [OpenAI CEO Sam Altman Asks Congress to Regulate AI](https://time.com/6280372/sam-altman-chatgpt-regulate-ai/), Julia Zorthian, Time, May 16, 2023
 - [Journalists seek regulations to govern fast-moving artificial intelligence technology](https://abcnews.go.com/US/wireStory/journalists-seek-regulations-govern-fast-moving-artificial-intelligence-102146228), ABC News, August 10, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 3](https://www.youtube.com/watch?v=NVe_drCREyc), NYU School of Law, April 24, 2023
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc), Fireship, May 18, 2023
