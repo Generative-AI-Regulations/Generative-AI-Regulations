@@ -32,7 +32,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
 - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai), The Verge, Emilia David, Aug 11, 2023
 - [CONFLICTING VISIONS FOR AI REGULATION](https://www.nature.com/articles/d41586-023-02491-y), Nature Portfolio, Matthew Hutson, Aug 10, 2023
-- [Artificial intelligence: top academics warn Australia has no AI industry to regulate](https://www.afr.com/technology/labor-ignoring-the-elephant-in-the-room-on-ai-experts-20230804-p5du1p), The Australian Financial Review, Aug 7, 2023
+- [Artificial intelligence: top academics warn Australia has no AI industry to regulate](https://www.afr.com/technology/labor-ignoring-the-elephant-in-the-room-on-ai-experts-20230804-p5du1p), John Davidson, The Australian Financial Review, Aug 7, 2023
 - [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html), Computerworld, Preston Gralla, Jul 27, 2023
 - [Independent Ada Lovelace Institute Asks UK Government to Firm up AI Regulation Proposals](https://www.techrepublic.com/article/generative-ai-uk-regulation/), TechRepublic, Megan Crouse, Jul 24, 2023
 - [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, July 19, 2023
