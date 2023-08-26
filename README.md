@@ -54,20 +54,20 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work), Thomas H. Davenport and Nitin Mittal, Harvard Business Review, Nov 14, 2022
 
 ## Presentations and Talks
-- [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott, Omer Tene, Goodwin Procter, August 9, 2023
-- [ChatGPT and Generative AI Are Hits! Can Copyright Law Stop Them?](https://www.youtube.com/watch?v=bRqwTP2eKJY), Bloombery Law, July 27, 2023
+- [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott and Omer Tene, Goodwin Procter, Aug 9, 2023
+- [ChatGPT and Generative AI Are Hits! Can Copyright Law Stop Them?](https://www.youtube.com/watch?v=bRqwTP2eKJY), Bloomberg Law, July 27, 2023
 - [The geopolitics of generative AI](https://www.brookings.edu/events/the-geopolitics-of-generative-ai/), Brookings, July 19, 2023
 - [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, July 19, 2023
 - [China finalizes rules on generative AI amidst a rush of product launches](https://techhq.com/2023/07/china-finalizes-rules-on-generative-ai-amidst-a-rush-of-product-launches/), TechHQ, July 17, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information age, July 11, 2023
 - [Unleashing potential of generative AI across the legal profession](https://law.asia/potential-generative-ai-for-legal-profession/), Asia Business Law Journal, July 5, 2023
-- [Australia Plans Regulatory Framework for AI](https://winbuzzer.com/2023/06/05/australia-plans-regulatory-framework-for-ai-xcxwbn/), Markus Kasanmascheff, Sky News Australia, June 5, 2023
+- [Australia Plans Regulatory Framework for AI](https://winbuzzer.com/2023/06/05/australia-plans-regulatory-framework-for-ai-xcxwbn/), Markus Kasanmascheff and Sky News Australia, June 5, 2023
 - [Generative AI: The big questions](https://www.cliffordchance.com/insights/thought_leadership/ai-and-tech/generative-ai-the-big-questions.html), Clifford Chance, June 5, 2023
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Aaron Hurst, Information age, May 26, 2023
 - [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, May 26, 2023
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc), Fireship, May 18, 2023
 - [OpenAI CEO Sam Altman Asks Congress to Regulate AI](https://time.com/6280372/sam-altman-chatgpt-regulate-ai/), Julia Zorthian, Time, May 16, 2023
-- [To Manage Generative AI Risk, Understand the Terms of Use](https://www.goodwinlaw.com/en/insights/publications/2023/05/insights-technology-aiml-generative-ai-risk-terms-of-use), Bethany P. Withers, Stephen G. Charkoudian, Goodwin Procter, May 15, 2023
+- [To Manage Generative AI Risk, Understand the Terms of Use](https://www.goodwinlaw.com/en/insights/publications/2023/05/insights-technology-aiml-generative-ai-risk-terms-of-use), Bethany P. Withers and Stephen G. Charkoudian, Goodwin Procter, May 15, 2023
 - [The Urgent Risks of Runaway AI – and What to Do about Them | Gary Marcus | TED](https://www.youtube.com/watch?v=JL5OFXeXenA&t=2s), TED Talks, May 13, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 4](https://www.youtube.com/watch?v=YKUltib9w0g), NYU School of Law, April 24, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 3](https://www.youtube.com/watch?v=NVe_drCREyc), NYU School of Law, April 24, 2023
@@ -75,7 +75,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Generative AI Standards and Regulations](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education), Sal Khan, TED Talks, April, 2023
 - [The inside story of ChatGPT's astonishing potential](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential), Greg Brockman, TED Talks, April, 2023
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
-- [The A.I. Dilemma](https://www.youtube.com/watch?v=xoVJKj8lcNQ), Center for Humane Technology, March 9, 2023
-- [AI Regulation: Balancing Risk and Opportunity](https://www.youtube.com/watch?v=-CXkHs3cxa4&t=1s&ab_channel=OECD), OECD, January 23, 2023
-- [Australia’s Artificial Intelligence Ethics Framework](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework), Science and Resources, November 7, 2019
-- [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg), TED Talks, October 20, 2016
+- [The A.I. Dilemma](https://www.youtube.com/watch?v=xoVJKj8lcNQ), Center for Humane Technology, Mar 9, 2023
+- [AI Regulation: Balancing Risk and Opportunity](https://www.youtube.com/watch?v=-CXkHs3cxa4&t=1s&ab_channel=OECD), OECD, Jan 23, 2023
+- [Australia’s Artificial Intelligence Ethics Framework](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework), Science and Resources, Nov 7, 2019
+- [Can we build AI without losing control over it?](https://www.youtube.com/watch?v=8nt3edWLgIg), TED Talks, Oct 20, 2016
