@@ -21,7 +21,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency by CSIS](https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency)
 - [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/)
 - [White House Guidance for Regulation of Artificial Intelligence Applications by NAIIO](https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/11/M-21-06.pdf)
-- 
+  
 
 ## News and Media Discussions
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), The Verge, Emilia David, Aug 17, 2023
