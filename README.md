@@ -21,7 +21,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency by CSIS](https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency)
 - [How will China’s Generative AI Regulations Shape the Future? A DigiChina Forum](https://digichina.stanford.edu/work/how-will-chinas-generative-ai-regulations-shape-the-future-a-digichina-forum/)
 - [White House Guidance for Regulation of Artificial Intelligence Applications by NAIIO](https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/11/M-21-06.pdf)
-- [Artificial intelligence: Development, risks and regulation](https://lordslibrary.parliament.uk/artificial-intelligence-development-risks-and-regulation/)
+- [Artificial intelligence: Development, risks and regulation by UK Parliament House of Lords Library](https://lordslibrary.parliament.uk/artificial-intelligence-development-risks-and-regulation/)
 - [Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency](https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency)
 - [Regulation of (Generative) AI Requires Continuous Oversight (AustLII Submission on the ‘Safe and Responsible AI in Australia’ Discussion Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519365)
 - [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
