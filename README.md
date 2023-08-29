@@ -4,6 +4,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 ## Government Agencies and Research Institutions
 - [AI Standards Committee at the IEEE Computer Society](https://sagroups.ieee.org/ai-sc/)
 - [Technical AI Standards by the UTS National Institute of Standards and Technology (NIST)](https://www.nist.gov/artificial-intelligence/technical-ai-standards)
+- [Blueprint for an AI Bill of Rights by The White House](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - [Regulation on Artificial Intelligence by the EU](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
 - [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment by Brookings](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/)
 - [The three challenges of AI regulation by Brookings](https://www.brookings.edu/articles/the-three-challenges-of-ai-regulation/)
@@ -24,7 +25,6 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Artificial intelligence: Development, risks and regulation by UK Parliament House of Lords Library](https://lordslibrary.parliament.uk/artificial-intelligence-development-risks-and-regulation/)
 - [Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency by The Center for Strategic and International Studies](https://www.csis.org/analysis/japans-approach-ai-regulation-and-its-impact-2023-g7-presidency)
 - [Regulation of (Generative) AI Requires Continuous Oversight (AustLII Submission on the ‘Safe and Responsible AI in Australia’ Discussion Paper) by SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519365)
-- [Blueprint for an AI Bill of Rights by The White House](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - [Science & Tech Spotlight:Generative AI by U.S. Government Accountability Office](https://www.gao.gov/products/gao-23-106782)
 
 ## News and Media Discussions
