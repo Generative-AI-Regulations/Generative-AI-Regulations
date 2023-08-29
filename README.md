@@ -1,4 +1,4 @@
-# Generative AI Regulations
+# Generative AI Standards and Regulations
 A Survey of Research and Resource List on Generative AI Standards and Regulations
 
 ## Government Agencies and Research Institutions
