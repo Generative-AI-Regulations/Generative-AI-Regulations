@@ -67,7 +67,6 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Aaron Hurst, Information age, May 26, 2023
 - [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, May 26, 2023
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc), Fireship, May 18, 2023
-- [OpenAI CEO Sam Altman Asks Congress to Regulate AI](https://time.com/6280372/sam-altman-chatgpt-regulate-ai/), Julia Zorthian, Time, May 16, 2023
 - [To Manage Generative AI Risk, Understand the Terms of Use](https://www.goodwinlaw.com/en/insights/publications/2023/05/insights-technology-aiml-generative-ai-risk-terms-of-use), Bethany P. Withers and Stephen G. Charkoudian, Goodwin Procter, May 15, 2023
 - [The Urgent Risks of Runaway AI – and What to Do about Them | Gary Marcus | TED](https://www.youtube.com/watch?v=JL5OFXeXenA&t=2s), TED Talks, May 13, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 4](https://www.youtube.com/watch?v=YKUltib9w0g), NYU School of Law, April 24, 2023
