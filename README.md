@@ -63,14 +63,13 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information age, July 11, 2023
 - [Unleashing potential of generative AI across the legal profession](https://law.asia/potential-generative-ai-for-legal-profession/), Asia Business Law Journal, July 5, 2023
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Aaron Hurst, Information age, May 26, 2023
-- [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, May 26, 2023
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc), Fireship, May 18, 2023
 - [To Manage Generative AI Risk, Understand the Terms of Use](https://www.goodwinlaw.com/en/insights/publications/2023/05/insights-technology-aiml-generative-ai-risk-terms-of-use), Bethany P. Withers and Stephen G. Charkoudian, Goodwin Procter, May 15, 2023
 - [The Urgent Risks of Runaway AI – and What to Do about Them | Gary Marcus | TED](https://www.youtube.com/watch?v=JL5OFXeXenA&t=2s), TED Talks, May 13, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 4](https://www.youtube.com/watch?v=YKUltib9w0g), NYU School of Law, April 24, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 3](https://www.youtube.com/watch?v=NVe_drCREyc), NYU School of Law, April 24, 2023
 - [Regulating AI: Why It’s Difficult to Do and Important to Get Right](https://www.governing.com/now/regulating-ai-why-its-difficult-to-do-and-important-to-get-right), Governing, April 9, 2023
-- [How AI could save (not destory) education](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education), Sal Khan, TED Talks, April, 2023
+- [How AI could save (not destroy) education](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education), Sal Khan, TED Talks, April, 2023
 - [The inside story of ChatGPT's astonishing potential](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential), Greg Brockman, TED Talks, April, 2023
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
 - [The A.I. Dilemma](https://www.youtube.com/watch?v=xoVJKj8lcNQ), Center for Humane Technology, Mar 9, 2023
