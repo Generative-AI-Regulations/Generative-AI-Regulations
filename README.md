@@ -62,7 +62,6 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [China finalizes rules on generative AI amidst a rush of product launches](https://techhq.com/2023/07/china-finalizes-rules-on-generative-ai-amidst-a-rush-of-product-launches/), TechHQ, July 17, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information age, July 11, 2023
 - [Unleashing potential of generative AI across the legal profession](https://law.asia/potential-generative-ai-for-legal-profession/), Asia Business Law Journal, July 5, 2023
-- [Australia Plans Regulatory Framework for AI](https://winbuzzer.com/2023/06/05/australia-plans-regulatory-framework-for-ai-xcxwbn/), Markus Kasanmascheff and Sky News Australia, June 5, 2023
 - [Generative AI: The big questions](https://www.cliffordchance.com/insights/thought_leadership/ai-and-tech/generative-ai-the-big-questions.html), Clifford Chance, June 5, 2023
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Aaron Hurst, Information age, May 26, 2023
 - [Data management specialist warns against data dangers of generative AI](https://techhq.com/2023/05/data-management-specialist-warns-against-data-dangers-of-generative-ai/), TechHQ, May 26, 2023
