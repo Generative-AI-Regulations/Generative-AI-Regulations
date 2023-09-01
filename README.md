@@ -7,7 +7,6 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Blueprint for an AI Bill of Rights by The White House](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - [Regulation on Artificial Intelligence by the EU](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
 - [The EU and U.S. diverge on AI regulation: A transatlantic comparison and steps to alignment by Brookings](https://www.brookings.edu/articles/the-eu-and-us-diverge-on-ai-regulation-a-transatlantic-comparison-and-steps-to-alignment/)
-- [Law, Policy, & AI Update: Does Section 230 Cover Generative AI? by Stanford University](https://hai.stanford.edu/news/law-policy-ai-update-does-section-230-cover-generative-ai)
 - [Law, Policy, & AI Update: China Requires AI Watermarks, ChatGPT Won’t Make it to U.S. Courtrooms by Standford University](https://hai.stanford.edu/news/law-policy-ai-update-china-requires-ai-watermarks-chatgpt-wont-make-it-us-courtrooms)
 - [Exploring the Impacts of Generative AI on the Future of Teaching and Learning by Berkman Klein Center](https://cyber.harvard.edu/story/2023-06/impacts-generative-ai-teaching-learning)
 - [WIPO Impact of Artificial Intelligence on IP Policy Response from Brunel University London, Law School & Centre for Artificial Intelligence by Brunel University London](https://www.wipo.int/export/sites/www/about-ip/en/artificial_intelligence/call_for_comments/pdf/org_brunel.pdf)
