@@ -25,8 +25,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Science & Tech Spotlight:Generative AI by U.S. Government Accountability Office](https://www.gao.gov/products/gao-23-106782)
 
 ## News and Media Discussions
-- [New industry recommendations to curb harms of generative AI](https://www.esafety.gov.au/newsroom/media-releases/new-industry-recommendations-to-curb-harms-of-generative-ai)
-- [Newsrooms grapple with rules for AI](https://www.axios.com/2023/08/22/ai-rules-newsrooms-training-data)
+- [Newsrooms grapple with rules for AI](https://www.axios.com/2023/08/22/ai-rules-newsrooms-training-data), Ryan Heath Sara Fischer, Aug 22, 2023
 - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai), Emilia David, The Verge, Aug 17, 2023
 - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai), Emilia David, The Verge, Aug 11, 2023
 - [CONFLICTING VISIONS FOR AI REGULATION](https://www.nature.com/articles/d41586-023-02491-y), Matthew Hutson, Nature Portfolio, Aug 10, 2023
