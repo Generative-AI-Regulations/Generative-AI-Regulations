@@ -2,7 +2,7 @@
 A Survey of Research and Resource List on Generative AI Standards and Regulations
 
 ## Government Agencies and Research Institutions
-[1] [AI Standards Committee at the IEEE Computer Society](https://sagroups.ieee.org/ai-sc/)
+1. [AI Standards Committee at the IEEE Computer Society](https://sagroups.ieee.org/ai-sc/)
 - [Technical AI Standards by the US National Institute of Standards and Technology (NIST)](https://www.nist.gov/artificial-intelligence/technical-ai-standards)
 - [Blueprint for an AI Bill of Rights by The White House](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - [Regulation on Artificial Intelligence by the EU](https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence)
