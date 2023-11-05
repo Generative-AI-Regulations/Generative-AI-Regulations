@@ -63,7 +63,6 @@ Problem](https://digitalcommons.law.uw.edu/wlr/vol93/iss2/2), Amanda Levendowski
 - [The Urgent Risks of Runaway AI – and What to Do about Them | Gary Marcus | TED](https://www.youtube.com/watch?v=JL5OFXeXenA&t=2s), TED Talks, May 13, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 4](https://www.youtube.com/watch?v=YKUltib9w0g), NYU School of Law, April 24, 2023
 - [GPT, GDPR, AI Act: How (not) to regulate generative AI? - Panel 3](https://www.youtube.com/watch?v=NVe_drCREyc), NYU School of Law, April 24, 2023
-- [Regulating AI: Why It’s Difficult to Do and Important to Get Right](https://www.governing.com/now/regulating-ai-why-its-difficult-to-do-and-important-to-get-right), Governing, April 9, 2023
 - [How AI could save (not destroy) education](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education), Sal Khan, TED Talks, April, 2023
 - [The inside story of ChatGPT's astonishing potential](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential), Greg Brockman, TED Talks, April, 2023
 - [OpenAI CEO, CTO on risks and how AI will reshape society](https://www.youtube.com/watch?v=540vzMlf-54), ABC News, Mar 18, 2023
