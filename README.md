@@ -58,6 +58,8 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Image Makers fighting for photographers’ rights](https://www.insideimaging.com.au/2023/image-makers-fights-for-photographers-rights/), Ben Guthrie, Aug 03, 2023
 - [Algorithmic regulation and the rule of law. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://doi.org/10.1098/rsta.2017.0355), Mireille Hildebrandt, August 06, 2018
 - [UNDERSTANDING CC LICENSES AND GENERATIVE AI](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/), Kat Walsh, August 18, 2023
+- [ How Copyright Law Can Fix Artificial Intelligence’s Implicit Bias 
+Problem](https://digitalcommons.law.uw.edu/wlr/vol93/iss2/2), Amanda Levendowski, July 24, 2017
 
 ## Presentations and Talks
 - [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott and Omer Tene, Goodwin Procter, Aug 9, 2023
