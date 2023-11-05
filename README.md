@@ -55,6 +55,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [Generative AI Has an Intellectual Property Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem), Gil Appel, Juliana Neelbauer, and David A. Schweidel, Harvard Business Review, April 07, 2023
 - [UK rules out new AI regulator](https://www.bbc.com/news/technology-65102210), Shiona McCallum, BBC News Services, Mar 29, 2023
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work), Thomas H. Davenport and Nitin Mittal, Harvard Business Review, Nov 14, 2022
+- [Image Makers fighting for photographers’ rights](https://www.insideimaging.com.au/2023/image-makers-fights-for-photographers-rights/), Ben Guthrie, Aug 03, 2023
 
 ## Presentations and Talks
 - [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott and Omer Tene, Goodwin Procter, Aug 9, 2023
