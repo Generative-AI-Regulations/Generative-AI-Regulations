@@ -28,8 +28,6 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai), Emilia David, The Verge, Aug 11, 2023
 - [Is generative AI mightier than the law?](https://www.computerworld.com/article/3703250/is-generative-ai-mightier-than-the-law.html), Preston Gralla, Computerworld, Jul 27, 2023
 - [Independent Ada Lovelace Institute Asks UK Government to Firm up AI Regulation Proposals](https://www.techrepublic.com/article/generative-ai-uk-regulation/), Megan Crouse, TechRepublic, Jul 24, 2023
-- [China says generative AI rules to apply only to products for the public](https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/), Josh Ye, Reuters, Jul 15, 2023
-- [China takes major step in regulating generative AI services like ChatGPT](https://edition.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html), Laura He, CNN, July 14, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information Age, July 11, 2023
 - [U.S. concern about generative AI risks prompts NIST study](https://www.techtarget.com/searchcio/news/366544159/US-concern-about-generative-AI-risks-prompts-NIST-study), Makenzie Holland, TechTarget Editorial, Jul 10, 2023
 - [EU lawmakers pass landmark artificial intelligence regulation](https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html), CNBC, Ryan Browne, June 14, 2023
