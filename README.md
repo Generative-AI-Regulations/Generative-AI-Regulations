@@ -55,7 +55,6 @@ Problem](https://digitalcommons.law.uw.edu/wlr/vol93/iss2/2), Amanda Levendowski
 [Key Findings of the Creative Commons Working Group on Copyright and AI](https://medium.com/creative-commons-we-like-to-share/key-findings-of-the-creative-commons-working-group-on-copyright-and-ai-d8870956d50f), Max Mahmoud Wardeh, Nov 6, 2021
 
 ## Presentations and Talks
-- [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott and Omer Tene, Goodwin Procter, Aug 9, 2023
 - [ChatGPT and Generative AI Are Hits! Can Copyright Law Stop Them?](https://www.youtube.com/watch?v=bRqwTP2eKJY), Bloomberg Law, July 27, 2023
 - [The geopolitics of generative AI](https://www.brookings.edu/events/the-geopolitics-of-generative-ai/), Brookings, July 19, 2023
 - [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, July 19, 2023
