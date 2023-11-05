@@ -57,8 +57,6 @@ Problem](https://digitalcommons.law.uw.edu/wlr/vol93/iss2/2), Amanda Levendowski
 ## Presentations and Talks
 - [ChatGPT and Generative AI Are Hits! Can Copyright Law Stop Them?](https://www.youtube.com/watch?v=bRqwTP2eKJY), Bloomberg Law, July 27, 2023
 - [The geopolitics of generative AI](https://www.brookings.edu/events/the-geopolitics-of-generative-ai/), Brookings, July 19, 2023
-- [Factbox: Governments race to regulate AI tools](https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/), Reuters, July 19, 2023
-- [China finalizes rules on generative AI amidst a rush of product launches](https://techhq.com/2023/07/china-finalizes-rules-on-generative-ai-amidst-a-rush-of-product-launches/), TechHQ, July 17, 2023
 - [How generative AI regulation is shaping up around the world](https://www.information-age.com/how-generative-ai-regulation-shaping-up-around-world-123503911/), Aaron Hurst, Information age, July 11, 2023
 - [Unleashing potential of generative AI across the legal profession](https://law.asia/potential-generative-ai-for-legal-profession/), Asia Business Law Journal, July 5, 2023
 - [What the draft EU AI Act means for regulation](https://www.information-age.com/what-the-draft-eu-ai-act-means-for-regulation-123504268/), Aaron Hurst, Information age, May 26, 2023
