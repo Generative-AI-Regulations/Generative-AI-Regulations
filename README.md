@@ -60,6 +60,7 @@ A Survey of Research and Resource List on Generative AI Standards and Regulation
 - [UNDERSTANDING CC LICENSES AND GENERATIVE AI](https://creativecommons.org/2023/08/18/understanding-cc-licenses-and-generative-ai/), Kat Walsh, August 18, 2023
 - [ How Copyright Law Can Fix Artificial Intelligence’s Implicit Bias 
 Problem](https://digitalcommons.law.uw.edu/wlr/vol93/iss2/2), Amanda Levendowski, July 24, 2017
+[Key Findings of the Creative Commons Working Group on Copyright and AI](https://medium.com/creative-commons-we-like-to-share/key-findings-of-the-creative-commons-working-group-on-copyright-and-ai-d8870956d50f), Max Mahmoud Wardeh, Nov 6, 2021
 
 ## Presentations and Talks
 - [Primer on the EU AI Act: An Emerging Global Standard for Artificial Intelligence](https://www.goodwinlaw.com/en/insights/publications/2023/08/insights-technology-aiml-eu-ai-act-global-standard-artificial-intelligence), Gretchen Scott and Omer Tene, Goodwin Procter, Aug 9, 2023
